@@ -5,6 +5,7 @@ body {
 div {
 	margin: 50px 33.3%;
 	width: 33.3%;
+	display: flex;
 }
 
 h1, p {
