@@ -1,0 +1,11 @@
+body {
+	background-color: #f1f1f1;
+}
+div {
+	width: 33.33%;
+	margin: 50px auto;
+}
+h1,p {
+	color: blue;
+	margin-left: 100px;
+}
